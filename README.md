@@ -8,7 +8,8 @@ along with information related to where you order is in line and how long the es
 ## Tech/Framework Used
 Ex. -
 <b>Built with</b>
-- Linux command line. There is no additional software that is needed to run this program.
+- Standard C Language using Linux command line. There is no additional software that is needed to run this program.
 
 ## To Run
 With files in the same direction, run Make in a unix environment (Linux was tested/Mac was not) then provide input.
+Alternatively (and more easily) you make ./userInterface and use the <b>?<b> character as input to see acceptable commands for this program
