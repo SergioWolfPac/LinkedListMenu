@@ -11,5 +11,5 @@ Ex. -
 - Standard C Language using Linux command line. There is no additional software that is needed to run this program.
 
 ## To Run
-With files in the same direction, run Make in a unix environment (Linux was tested/Mac was not) then provide input.
+With files in the same directory, run Make in a unix environment (Linux was tested/Mac was not) then provide input.
 Alternatively (and more easily) you make ./userInterface and use the <b>?</b> character as input to see acceptable commands for this program
